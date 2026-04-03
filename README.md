@@ -116,11 +116,11 @@ extraction-llm-scientifique/
 
 ---
 
-## Auteure
+## Autrice
 
 **Aida Diop** — Étudiante ingénieure Big Data, JUNIA ISEN Lille  
 📧 aidadiop1014@gmail.com
 
 ---
 
-*Projet réalisé dans le cadre du Master 1 Big Data — JUNIA ISEN (Nov 2025 – Avr 2026)*
+Projet réalisé dans le cadre du Master 1 Big Data — JUNIA ISEN (Nov 2025 – Avr 2026)
