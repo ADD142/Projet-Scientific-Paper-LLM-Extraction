@@ -79,7 +79,7 @@ GOOGLE_API_KEY=ta_cle_api_ici
 ```
 
 ### 4. Ajouter tes PDFs
-Place tes articles scientifiques dans le dossier `papers/`
+Place tes articles scientifiques dans le dossier `test/`
 
 ### 5. Lancer le notebook
 ```bash
@@ -98,10 +98,10 @@ extraction-llm-scientifique/
 ├── README.md              # Ce fichier
 ├── .gitignore             # Fichiers exclus de Git
 │
-├── papers/                # 📥 Tes PDFs scientifiques (non versionnés)
+├── test/                # PDFs scientifiques
 │   └── exemple.pdf
 │
-└── output/                # 📤 Fichiers Excel générés (non versionnés)
+└── output/                # Fichiers Excel générés
     └── scanned_pdf_extraction.xlsx
 ```
 
